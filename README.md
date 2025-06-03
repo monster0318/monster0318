@@ -8,30 +8,26 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ryansims519/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/ryansims519" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ryan Sims, A Senior Software Engineer at Gusto
+  Hi, I'm Ryan Sims, a Senior Software Engineer at Gusto
+  <br><br>
+  👨‍💻 I specialize in building scalable, cloud-native full-stack systems with TypeScript, Python, Java and AWS
   <br>
+  🛠️ I’ve worked on HR platforms, enterprise marketplaces, and pharmacy systems powering millions of users
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔄 I'm passionate about CI/CD, DevOps, automation, and crafting resilient APIs
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🧠 I love learning modern frameworks and cloud technologies — currently diving deeper into serverless patterns
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  🧪 I care about writing clean, testable code using Jest, Cypress, and full-stack test strategies
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💬 Ask me anything <a href="https://github.com/monster0318/monster0318/issues" title="Issues">here</a>
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/monster0318/monster0318/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: ryansims0519@gmail.com">ryansims0519@gmail.com</a>
+  📫 Reach me: <a href="mailto:ryansims0519@gmail.com">ryansims0519@gmail.com</a>
 </p>
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
