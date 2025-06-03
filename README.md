@@ -91,17 +91,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/monster0318/AI-Doc-Search" title="AI-Doc-Search"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=AI-Doc-Search&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/monster0318/mockup-netiflex-backend" title="mockup-netiflex-backend"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=mockup-netiflex-backend&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/monster0318/E-Commerce-Node.js-Angular-Full-Stack" title="E-Commerce-Node.js-Angular-Full-Stack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=E-Commerce-Node.js-Angular-Full-Stack&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/monster0318/sd-webui-reactor-sfw" title="sd-webui-reactor-sfw"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=sd-webui-reactor-sfw&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/monster0318/fullstack-oauth2-angular-spring-boot-keycloak" title="fullstack-oauth2-angular-spring-boot-keycloak"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=fullstack-oauth2-angular-spring-boot-keycloak&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/monster0318/sentence-classification" title="sentence-classification"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=monster0318&repo=sentence-classification&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
