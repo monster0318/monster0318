@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Ryan Sims, a Senior Software Engineer at Gusto
+  Hi, I'm Monster, a Senior Software Engineer at US
   <br><br>
   👨‍💻 I specialize in building scalable, cloud-native full-stack systems with TypeScript, Python, Java and AWS
   <br>
