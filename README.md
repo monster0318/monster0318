@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Monster....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ryan+Sims....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Monster, a Senior Software Engineer at US
+  Hi, I'm Ryan Sims, a Senior Software Engineer at Gusto
   <br><br>
   👨‍💻 I specialize in building scalable, cloud-native full-stack systems with TypeScript, Python, Java and AWS
   <br>
