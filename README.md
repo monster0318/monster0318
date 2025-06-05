@@ -2,17 +2,17 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ryan+Sims....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ryansims519/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+<!--   <code><a href="https://www.linkedin.com/in/ryansims519/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/ryansims519" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-</h5>
+</h5> -->
 <br>
 <p align="center">
-  Hi, I'm Ryan Sims, a Senior Software Engineer at Gusto
+  Hi, I'm a Senior Software Engineer
   <br><br>
   👨‍💻 I specialize in building scalable, cloud-native full-stack systems with TypeScript, Python, Java and AWS
   <br>
