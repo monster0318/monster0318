@@ -26,7 +26,6 @@
   <br>
   💬 Ask me anything <a href="https://github.com/monster0318/monster0318/issues" title="Issues">here</a>
   <br>
-  📫 Reach me: <a href="mailto:ryansims0519@gmail.com">ryansims0519@gmail.com</a>
 </p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
