@@ -24,7 +24,11 @@
   <br>
   🧪 I care about writing clean, testable code using Jest, Cypress, and full-stack test strategies
   <br>
-  💬 Ask me anything <a href="https://github.com/monster0318/monster0318/issues" title="Issues">here</a>
+  💬 Ask me anything here</a>
+  <br>
+  <br>
+  mxkim747q@outlook.com
+  +1 226 240 1773
   <br>
 </p>
 <hr>
